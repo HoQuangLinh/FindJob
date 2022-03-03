@@ -1,0 +1,24 @@
+.my-header {
+    font-weight: bold;
+    background-color: #30c1ff;
+}
+ul {
+    margin: 0;
+}
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.navbar-brand {
+    color: #fff !important;
+}
+.tag {
+    background: #00b9f3;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding: 5px;
+    font-weight: 700;
+    font-size: 12px;
+    border-radius: 5px;
+}
